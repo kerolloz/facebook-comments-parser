@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import re
 
 file = open('comments_html.txt', 'r')
